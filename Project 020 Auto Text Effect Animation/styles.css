@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@400&family=Supermercado+One&display=swap');
+ 
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background: url(./assets/background.jpg);
+    background-size: cover;
+    font-family: 'Kalam', cursive;
+}
+
+h1{
+    color: whitesmoke;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+}
